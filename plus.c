@@ -7,9 +7,13 @@ int plus(int &a,int &b)
 }
 
 
+
 class a {
 	int leng;
 	int age;
 	int num;
 	char name[32];
 }
+
+printf()=============================================
+
