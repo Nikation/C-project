@@ -1,0 +1,7 @@
+Debug
+.vs
+#所有*。txt的文件都被过滤掉，除Readme.txt
+/*.txt
+!Readme.txt
+#!fileh.txt
+/*.gz
